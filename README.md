@@ -4,4 +4,4 @@ Lucid Ninja syntax theme for Atom.
 
 Inspired by [Ninja syntax theme](https://github.com/ninja/ninja-syntax)
 
-![A screenshot of your theme](https://drive.google.com/file/d/0B2Mai75_3sBQRXpfUy1td1J6ajg/view?usp=sharing)
+![](https://cloud.githubusercontent.com/assets/1180087/8103884/de3a6678-1034-11e5-8758-42bfde9fafa8.png)
