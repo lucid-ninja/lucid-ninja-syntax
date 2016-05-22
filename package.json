@@ -2,12 +2,12 @@
   "name": "lucid-ninja-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "Lucid_Ninja syntax theme for atom",
+  "description": "A short description of your syntax theme",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/lucid-ninja-syntax",
+  "repository": "https://github.com/lucid-ninja/lucid-ninja-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
